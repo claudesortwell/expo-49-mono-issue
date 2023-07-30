@@ -1,0 +1,12 @@
+{
+  "name": "expo-49-mono-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "repository": "git@github.com:claudesortwell/expo-49-mono-issue.git",
+  "author": "Claude <claude.sortwell@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "apps/*"
+  ]
+}
